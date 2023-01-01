@@ -1,4 +1,4 @@
-package be.algielen.ImageRepo
+package be.algielen.imagerepo
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
