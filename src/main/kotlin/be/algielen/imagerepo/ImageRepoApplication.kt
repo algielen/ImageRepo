@@ -7,5 +7,7 @@ import org.springframework.boot.runApplication
 class ImageRepoApplication
 
 fun main(args: Array<String>) {
-	runApplication<ImageRepoApplication>(*args)
+	runApplication<ImageRepoApplication>(*args) {
+
+	}
 }
